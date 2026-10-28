@@ -12,10 +12,9 @@
 	"SupportURL": "",
 	"EnabledByDefault": true,
 	"CanContainContent": false,
-	"CanContainVerse": false,
-	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false,
+	"IsBetaVersion": false,
+	"Installed": true,
 	"Modules": [
 		{
 			"Name": "UE5Coro",
